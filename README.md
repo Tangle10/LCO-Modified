@@ -3,12 +3,12 @@
 This repository originally aimed at the re-publication of older plugin-content by various authors which needed some kind of overhaul, as vanilla ES has continued its development and some things don't fit anymore. Just think of the 0.10.7 ship and engines rebalancing.
 
 LixiChronikouOriou, aka Timeout on Discord, is *not* the author of those republished plugins, just their editor. However, with the time also own content was added. May You have fun with those, too.
+Tangle10, aka Zinzrinz on Discord, is an evil witch.
 
-But lets firstly begin with a short...
 <details>
 <summary>:blue_book: <b>Plugin Recommendation List</b></summary>
 
-This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> setup. They're more or less close to vanilla, and are rounded-off, i.e. new ships and outfits have their own images. Some of them provide basic QoL. However, there's much more interesting stuff out there for any taste, notably the works of <a href='https://github.com/AvianGeneticist'>AvianGeneticist</a>, things barely someone has thought of and testing out the borders of ES's mechanics.<br><br>Consult the <a href='https://endless-sky.github.io/plugins.html'>ES Plugin List</a>, Hecter's <a href='https://github.com/Hecter94/EndlessSky-PluginArchive'>ES Plugin Archive</a>, and the <a href='https://discord.com/channels/251118043411775489/1430395553107410944'>Plugin Release Channel</a> and <a href='https://discord.com/channels/251118043411775489/1208535517759807519'>Plugin Release Archive</a> on ES's Discord server for more.
+Ahahahahaha! Muahahahahahaha! Hahahahahhahahahaha!!!
 
 | Author  | Plugin(s) | Note |
 |---------|-----------|------|
@@ -25,21 +25,13 @@ This is a set of plugins which I <i>personally</i> regard to be my <i>base</i> s
 <table>
 <tr>
 <td><img width="882" height="1"><br>
-2026-02-09 | update: Louise.Conglomerate.Shipyards<br>
-2026-02-05 | update: Factory.Outlets<br>
-2026-02-04 | update: Louise.Conglomerate.Shipyards<br>
-2026-01-25 | update: Fundamental.Outfit.Expansion<br>
-2025-12-31 | update: Korunak.Defense.Drones<br>
-2025-12-31 | update: Zone.of.Control<br>
-2025-12-09 | update: Fundamental.Outfit.Expansion<br>
-2025-11-22 | update: Factory.Outlets<br>
-2025-11-16 | update: Solar.Sails<br>
-2025-11-10 | update: Factory.Outlets<br>
+2026-02-10 | update: I'm a witch, and I'm evil!<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
 </table>
 
+(working on it.)
 
 ## Plugin List:<br>
 <table>
